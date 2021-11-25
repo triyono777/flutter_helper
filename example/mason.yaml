@@ -1,0 +1,5 @@
+bricks:
+  utils:
+    git:
+      url: https://github.com/triyono777/flutter_helper.git
+      path: bricks/utils
