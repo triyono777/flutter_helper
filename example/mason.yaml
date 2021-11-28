@@ -2,4 +2,8 @@ bricks:
   utils:
     git:
       url: https://github.com/triyono777/flutter_helper.git
-      path: bricks/utils
+      path: bricks/utils 
+  utils:
+    git:
+      url: https://github.com/triyono777/flutter_helper.git
+      path: bricks/auth_screen
