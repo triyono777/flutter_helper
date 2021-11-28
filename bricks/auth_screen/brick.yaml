@@ -1,0 +1,4 @@
+name: auth_screen
+description: Generate sign up n sign in screen.
+vars:
+  - package_name

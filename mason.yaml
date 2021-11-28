@@ -3,3 +3,5 @@ bricks:
     path: bricks/hello
   utils:
     path: bricks/utils
+  auth_screen:
+    path: bricks/auth_screen
